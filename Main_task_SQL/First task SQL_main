@@ -1,2 +1,0 @@
-SELECT Income_o.date AS dt1, Outcome_o.date AS dt2
-FROM Income_o, Outcome_o
